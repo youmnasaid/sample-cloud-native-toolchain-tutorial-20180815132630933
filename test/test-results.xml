@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.002" tests="8" failures="0">
+  <testsuite name="Root Suite" timestamp="2018-08-09T18:55:42" tests="8" failures="0" time="0.002">
+    <testcase name="correctively calculates the sum of 1 and 3" time="0.001" classname="correctively calculates the sum of 1 and 3">
+    </testcase>
+    <testcase name="correctly calculates the sum of -1 and -1" time="0" classname="correctly calculates the sum of -1 and -1">
+    </testcase>
+    <testcase name="correctly calculates the difference of 33 and 3" time="0.001" classname="correctly calculates the difference of 33 and 3">
+    </testcase>
+    <testcase name="correctly calculates the product of 12 and 12" time="0" classname="correctly calculates the product of 12 and 12">
+    </testcase>
+    <testcase name="correctly calculates the quotient of 10 and 2" time="0" classname="correctly calculates the quotient of 10 and 2">
+    </testcase>
+    <testcase name="indicates failure when a string is used instead of a number" time="0" classname="indicates failure when a string is used instead of a number">
+    </testcase>
+    <testcase name="indicates failure when two strings is used instead of numbers" time="0" classname="indicates failure when two strings is used instead of numbers">
+    </testcase>
+    <testcase name="successfully runs when two numbers are used" time="0" classname="successfully runs when two numbers are used">
+    </testcase>
+  </testsuite>
+</testsuites>

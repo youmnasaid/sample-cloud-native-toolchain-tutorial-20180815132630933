@@ -1,0 +1,10 @@
+<testsuite name="Mocha Tests" tests="8" failures="0" errors="0" skipped="0" timestamp="Thu, 09 Aug 2018 20:28:37 GMT" time="0.005">
+<testcase classname="" name="correctively calculates the sum of 1 and 3" time="0.001"/>
+<testcase classname="" name="correctly calculates the sum of -1 and -1" time="0"/>
+<testcase classname="" name="correctly calculates the difference of 33 and 3" time="0"/>
+<testcase classname="" name="correctly calculates the product of 12 and 12" time="0"/>
+<testcase classname="" name="correctly calculates the quotient of 10 and 2" time="0"/>
+<testcase classname="" name="indicates failure when a string is used instead of a number" time="0"/>
+<testcase classname="" name="indicates failure when two strings is used instead of numbers" time="0"/>
+<testcase classname="" name="successfully runs when two numbers are used" time="0"/>
+</testsuite>
