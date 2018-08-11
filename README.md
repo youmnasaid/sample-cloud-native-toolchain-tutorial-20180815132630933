@@ -1,4 +1,4 @@
-## Devops Workshop Hands-on lab
+## Devops Workshop Hands-on lab for DevEX Team
 
 
 ## Before you begin
