@@ -15,8 +15,8 @@
 #
 ---
 applications:
-- name: sample-devopscalc
+- name: calculator
   memory: 512M
   instances: 1
-  domain: bluemix.net
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+
