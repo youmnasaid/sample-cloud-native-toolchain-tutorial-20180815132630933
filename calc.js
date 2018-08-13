@@ -1,6 +1,20 @@
 const operations = require('./operations.js');
 const readline = require('readline');
 
+var express = require('express');
+
+var  routes = require('./routes.js');
+var calc = express();
+
+calc.use('/', routes);
+
+var http = require('http');
+
+var listener = calc.listen(8080, function(){
+    console.log('Listening on port ' + listener.address().port); //Listening on port 8080
+  
+  
+
 // Use readline to create command line interface
 const rl = readline.createInterface({
   input: process.stdin,
@@ -62,3 +76,6 @@ Enter your choice: `, (choice) => {
     });//} //dont forget to un-comment me
   });
 });
+});
+
+module.exports = calc;
