@@ -4,7 +4,7 @@
   "description": "A simple calculator application built with Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node calc.js",
     "test": "mocha"
   },
   "author": "",
