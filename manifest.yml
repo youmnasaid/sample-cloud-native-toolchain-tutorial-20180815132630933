@@ -19,4 +19,7 @@ applications:
   memory: 512M
   instances: 1
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+   host: calculator
+   name: calculator
+   domain: mybluemix.net
 
