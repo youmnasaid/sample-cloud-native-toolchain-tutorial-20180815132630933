@@ -16,7 +16,7 @@
 ---
 applications:
 - name: calculator
-  memory: 1024M
+  memory: 512M
   instances: 1
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
 
