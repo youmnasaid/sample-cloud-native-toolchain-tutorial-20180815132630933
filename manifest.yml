@@ -21,6 +21,6 @@ applications:
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   host: mycalculatorw
   name: mycalculatorw
-  domain: eu-gb.mybluemix.net
+  domain: mybluemix.net
 
 
